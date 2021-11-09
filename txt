@@ -1,0 +1,7 @@
+Numerical Analysis Programming in C++
+
+
+1) bisection method
+2) secant method
+3) newton-raphson
+4) trapezioidal rule
